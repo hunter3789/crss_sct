@@ -3,4 +3,5 @@
 - plot Cross-section of NWP data between two points
 - plot temperature, wind barb, and one more selectable variable (moisture, vertical velocity, convergence)
 
-[Demo image] (https://hunter3789.github.io/crss_sct/image/demo_image1.png)
+[Demo image]
+<img src="https://hunter3789.github.io/crss_sct/image/demo_image1.png">
